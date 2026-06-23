@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    font-size: 16px;
+ }
+
+.hero{
+    background-image: url('/Assets/images/tom-barrett-M0AWNxnLaMw-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar ul{
+list-style-type:none;
+display:flex;
+gap:110px;
+text-decoration:none;
+background-color:blanchedalmond;
+color:white;
+}
+
+#About{
+    background-color: #2158cf;
+    padding: 20px;
+}
+
+image{
+    width:300px;
+}
+p{
+    color:white;
+}
