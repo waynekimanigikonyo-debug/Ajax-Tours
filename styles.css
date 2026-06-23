@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: black;
 }
 
  body{
@@ -12,7 +11,7 @@
  }
 
 .hero{
-    background-image: url('/Assets/images/tom-barrett-M0AWNxnLaMw-unsplash.jpg');
+    background-image: url('Assets/images/tom-barrett-M0AWNxnLaMw-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
